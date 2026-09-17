@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Selecom</string>
+    <string name="company_full_name">Electronics Selecom</string>
+    <string name="tagline">Electronics Security Operations</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_out">Cerrar Sesión</string>
+    <string name="attendance_title">Control de Asistencia</string>
+    <string name="work_orders_title">Órdenes de Trabajo</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <color name="primary_blue">#1D4ED8</color>
+    <color name="primary_dark">#0F172A</color>
+    <color name="accent_teal">#0D9488</color>
+    <color name="bg_light">#F8FAFC</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#64748B</color>
+</resources>

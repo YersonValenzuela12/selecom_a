@@ -1,0 +1,6 @@
+{
+  "name": "Electronics Selecom",
+  "description": "Field Service Management platform for electronic security, work orders, attendance and operations",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
