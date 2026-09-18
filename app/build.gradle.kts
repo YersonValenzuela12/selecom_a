@@ -6,12 +6,12 @@ plugins {
 
 android {
     namespace = "com.example.selecom"
-    compileSdk = 35
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.aistudio.selecom.kxrtzq"
         minSdk = 26
-        targetSdk = 35
+        targetSdk = 34
         versionCode = 1
         versionName = "2.0.0"
 

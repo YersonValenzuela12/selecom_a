@@ -27,14 +27,7 @@ import com.example.selecom.data.repository.SelecomRepository
 import com.example.selecom.ui.components.RoleBadge
 import com.example.selecom.ui.components.UserAvatar
 import com.example.selecom.ui.screens.*
-import com.example.selecom.ui.theme.BackgroundLight
-import com.example.selecom.ui.theme.Ink500
-import com.example.selecom.ui.theme.Ink900
-import com.example.selecom.ui.theme.PrimaryBlue
-import com.example.selecom.ui.theme.PrimaryDark
-import com.example.selecom.ui.theme.RedDanger
-import com.example.selecom.ui.theme.SelecomTheme
-import com.example.selecom.ui.theme.SurfaceLight
+import com.example.selecom.ui.theme.*
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
